@@ -11,6 +11,10 @@ intents:
   - name
 
 responses:
+  ask_age : 
+  - text : "What is user age ? "
+  greet_age : 
+  - text : "Thank You for your Information...!"
   utter_greet:
   - text: "Hey! How are you?"
 
