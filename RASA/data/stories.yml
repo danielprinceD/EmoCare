@@ -1,9 +1,0 @@
-version: "3.1"
-
-stories:
-- story: happy path
-  steps:
-  - user: " hello"
-  - action: utter_greet
-  - user: "tell me joke"
-  - action: utter_joke
