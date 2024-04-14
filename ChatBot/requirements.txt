@@ -1,6 +1,0 @@
-Speech Recognition
-1. PyAudio
-2. tensorflow
-3. transformers
-4. gTTS
-5. SpeechRecognition
