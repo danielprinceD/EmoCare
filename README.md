@@ -7,7 +7,7 @@
 
 * Step 3 : Run data ingestion program in ingest.py file and makesure yout data (pdf file) is located in Model file and after the data ingestion process.*
 
-< img src="https://github.com/danielprinceD/EmoCare/blob/main/Project%20Output/Chatbot%20Integration/pinecone.png" />
+<img src="https://github.com/danielprinceD/EmoCare/blob/main/Project%20Output/Chatbot%20Integration/pinecone.png" />
 
 
 *Step 3 : Run streamlit* </br>
