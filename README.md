@@ -23,3 +23,10 @@
 *Step 5 : Chat with bot* 
 
 <img src="https://github.com/danielprinceD/EmoCare/blob/main/Project%20Output/Chatbot%20Integration/1.png" />
+
+</br>
+</br>
+</br>
+</br>
+
+<code style="color : red"> Contact me if you have any Query</code>
