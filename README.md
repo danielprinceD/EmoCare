@@ -29,4 +29,4 @@
 </br>
 </br>
 
-<code style="color : red"> Contact me if you have any Query</code>
+<span style="color : red"> Contact me if you have any Query</span>
