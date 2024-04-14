@@ -12,3 +12,8 @@
 *step 3 : Initial the Chat with Hi , Hello Greeting to perform detection of Emotion*
 
 <img src="https://github.com/danielprinceD/EmoCare/blob/main/Project%20Output/Chatbot%20Integration/Face%20Detected%20Output.png" />
+
+
+*Step 4 : Chat with bot* 
+
+<img src="https://github.com/danielprinceD/EmoCare/blob/main/Project%20Output/Chatbot%20Integration/1.png" />
